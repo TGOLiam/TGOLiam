@@ -1,4 +1,4 @@
-<h1 align="left">Liam</h1>
+<h1 align="left">Hey, The name's Liam</h1>
 
 <p align="left">
 Systems-layer software engineer in training — I work close to the machine because causality is clear and abstraction layers are thin.
@@ -7,12 +7,11 @@ Systems-layer software engineer in training — I work close to the machine beca
 ---
 
 ### About
-
-- Pre-thesis Software Engineering student, FEU Institute of Technology
-- Focus: systems programming, concurrency, distributed systems
-- I think in prerequisites, not products — deep solo technical work over breadth
-- Background in x86-32 assembly, bare-metal RP2040, and OS internals coursework
-
+- Software Engineering student, FEU Institute of Technology
+- Focus: systems programming, concurrency, distributed systems & networking
+- I think in on how things actually work
+- Background in x86-32 assembly, bare-metal embedded programming, and OS internals programming
+  
 ### Currently
 
 - 🔧 Building **Aide** — an agentic CLI tool in Go, synthesizing the strongest parts of existing coding agents into a custom TUI
