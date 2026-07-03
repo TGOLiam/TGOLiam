@@ -33,7 +33,7 @@ A systems programmer, building software from first principles.
 |---|---|
 | **[Aide](https://github.com/TGOLiam/Aide)** | Agentic CLI coding tool in Go — custom TUI, forked from Crush |
 | **[Sentinel](https://github.com/TGOLiam/Sentinel)** | L7 load balancer in C — epoll event loop, work-stealing queue, thread pool, least-loaded dispatch via trylock |
-| **[SideNote](https://github.com/TGOLiam/SideNote)** | Reading companion (Kotlin + FastAPI) with comprehension-gated Socratic recall sessions after each section |
+| **[TinigBicol](https://github.com/TGOLiam/TinigBicol)** | Pipeline that turns raw Bikol-language audio into structured, annotated speech segments for ASR research and dataset construction |
 | **[EzTrack](https://github.com/TGOLiam/ez_track)** | Financial management SaaS for Philippine SMBs — Telegram bot + Android client |
 
 
