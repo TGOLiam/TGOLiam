@@ -1,7 +1,7 @@
 <h1 align="left">Hey, The name's Liam</h1>
 
 <p align="left">
-Systems-layer software engineer in training — I work close to the machine because causality is clear and abstraction layers are thin.
+A systems programmer, building software from first principles.
 </p>
 
 ---
@@ -9,7 +9,6 @@ Systems-layer software engineer in training — I work close to the machine beca
 ### About
 - Software Engineering student, FEU Institute of Technology
 - Focus: systems programming, concurrency, distributed systems & networking
-- I think in on how things actually work
 - Background in x86-32 assembly, bare-metal embedded programming, and OS internals programming
   
 ### Currently
@@ -20,9 +19,12 @@ Systems-layer software engineer in training — I work close to the machine beca
 
 ### Stack
 
-**Primary:** C · Go · Rust
+**Primary:** C · Go · Rust · C++ · x86-32 Assembly
+
 **Also:** Python · Java · Kotlin
+
 **Systems:** POSIX / Linux internals · FreeRTOS · epoll · pthreads · ESP-IDF
+
 **Daily driver:** Fedora KDE Plasma 6
 
 ### Selected projects
@@ -34,9 +36,6 @@ Systems-layer software engineer in training — I work close to the machine beca
 | **[SideNote](https://github.com/TGOLiam/SideNote)** | Reading companion (Kotlin + FastAPI) with comprehension-gated Socratic recall sessions after each section |
 | **[EzTrack](https://github.com/TGOLiam/ez_track)** | Financial management SaaS for Philippine SMBs — Telegram bot + Android client |
 
-### Reading list
-
-Stevens (*TCP/IP Illustrated*, *Unix Network Programming*) · Kerrisk (*The Linux Programming Interface*) · Kleppmann (*Designing Data-Intensive Applications*) · Herlihy (*The Art of Multiprocessor Programming*)
 
 ### Outside of code
 
