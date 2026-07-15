@@ -11,12 +11,6 @@ A systems programmer, building software from first principles.
 - Focus: systems programming, concurrency, distributed systems & networking
 - Background in x86-32 assembly, bare-metal embedded programming, and OS internals programming
   
-### Currently
-
-- 🔧 Building **Aide** — an agentic CLI tool in Go, synthesizing the strongest parts of existing coding agents into a custom TUI
-- 🎓 Thesis: a priority-aware custom MQTT outbox for ESP32/FreeRTOS, using dynamic task priority elevation to enforce message urgency client-side instead of at the broker
-- 🧵 Parallel computing project: an Air Traffic Control concurrency simulator built on mutexes and binary semaphores, with conflict-detection alert queues as the core design
-
 ### Stack
 
 **Primary:** C · Go · Rust · C++ · x86-32 Assembly
