@@ -13,7 +13,7 @@ A low-level programmer, building software from first principles.
   
 ### Stack
 
-**Primary:** C · Go · Rust · C++ · x86-32 Assembly · Python · Java · Kotlin
+**Primary:** C · Go · Rust · C++ · x86-32 Assembly · Python · Java
 
 **Also:** Unix / Linux internals · OS Internals · Reverse Engineering
 
